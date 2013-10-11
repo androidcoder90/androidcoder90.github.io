@@ -1,0 +1,29 @@
+$TOC$
+# Preface
+	My Note about Mac OS X Config.
+
+# terminal
+## zsh
+sudo chsh -s /bin/zsh
+## color
+sudo echo '
+export PS1="%1d%#"
+export CLICOLOR="xterm-color"
+alias ll="ls -l"
+' >> /etc/zshenv
+
+# command line tool for xcode（xcode is not necearray）
+https://developer.apple.com/downloads/ #gcc complier
+
+# dict(this is my Dictionary List)
+	localhost% ls /Library/Dictionaries
+	Apple Dictionary.dictionary
+	New Oxford American Dictionary.dictionary
+	Oxford American Writer's Thesaurus.dictionary
+	Oxford Dictionary of English.dictionary
+	Oxford Thesaurus of English.dictionary
+	The Standard Dictionary of Contemporary Chinese.dictionary
+
+>> ps:
+在任何文字区域上按下 control+cmd+D 就可呼出取词窗口，词典会根据鼠标的位置自动取词
+
