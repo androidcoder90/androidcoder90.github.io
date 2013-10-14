@@ -93,19 +93,10 @@ $(document).ready(function(){
 
                 //set data
                 headInfo.id = item.id = 'menuIndex'+ (index.replace(/\./g,'-'));
-				switch(index.split('.').length ){
-					case 1:
-						name = index;
-						break;
-					case 2:
-						name = '♦';
-						break;
-					case 3:
-						break;
-				}
-                name .=  ' ' + $(item).text();
-                headInfo.name = name;
-                $(item).text(name);
+                headInfo.name = (index.split('.').length>2 ? '':index)
+					+ ' ' + $(item).text();
+                var title = index + ' ' + $(item).text();
+                $(item).text(title);
                 headingNode.push(headInfo);
             });
 
@@ -168,7 +159,6 @@ $(document).ready(function(){
                 var scrollTop = [];
                 $.each($('#menuIndex li a'),function(index,item){
                     var selector = $(item).attr('data-id') ? '#'+$(item).attr('data-id') : 'h1'
-					console.log(selector);
                     var top = $(selector).offset().top;
                     scrollTop.push(top);
                 });
