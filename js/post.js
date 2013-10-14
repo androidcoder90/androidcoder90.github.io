@@ -60,13 +60,13 @@ $(document).ready(function(){
                     return true;
                 }
                 var headInfo = {},
-                    id,name,
+                    id,name = '',
                     headingNode,
                     index;
                 //init 
                 if(item.tagName.toLowerCase() == 'h1'){
                     h1index++;h2index = 0;                    
-                    index = h1index;
+                    index = h1index.toString();
                     headingNode = heading;
                 }else if(item.tagName.toLowerCase() === 'h2'){
                     h2index++;h3index = 0;
@@ -92,8 +92,18 @@ $(document).ready(function(){
                 }
 
                 //set data
-                headInfo.id = item.id = 'menuIndex'+ (index.toString().replace(/\./g,'-'));
-                name = index + ' ' + $(item).text();
+                headInfo.id = item.id = 'menuIndex'+ (index.replace(/\./g,'-'));
+				switch(index.split('.').length ){
+					case 1:
+						name = index;
+						break;
+					case 2:
+						name = '♦';
+						break;
+					case 3:
+						break;
+				}
+                name .=  ' ' + $(item).text();
                 headInfo.name = name;
                 $(item).text(name);
                 headingNode.push(headInfo);

@@ -20,9 +20,9 @@ ol,ul {list-style:none;}
 caption,th{text-align:left;}
 h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:500;}
 .h1{font-weight:bold;}
-.h2{margin-left:0.5em;}
-.h3{margin-left:1em;}
-.h4{margin-left:1.5em;}
+.h2{margin-left:0.8em;}
+.h3{margin-left:1.6em;}
+.h4{margin-left:2.4em;}
 q:before,q:after {content:'';}
 sup{vertical-align:text-top;}
 sub{vertical-align:text-bottom;}
