@@ -19,7 +19,7 @@ address,caption,cite,code,dfn,em,th,var {font-style:normal;font-weight:500;}
 ol,ul {list-style:none;}
 caption,th{text-align:left;}
 h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:500;}
-.h1{font-weight:bold;color:#f60;font-size:2em;}
+.h1{font-weight:bold;}
 .h2{margin-left:0.8em;}
 .h3{margin-left:1.6em;}
 .h4{margin-left:2.4em;}
@@ -45,7 +45,7 @@ a.external:hover {background-position:right -15px;}
 .entry-title a:hover {text-decoration:none;}
 .entry-date {text-align:center;color:#999;margin-bottom:60px;font-size:14px;}
 
-h1 {font-size:26px;font-weight:bold;margin-bottom:25px;}
+h1 {font-size:2em;color:#f60;font-weight:bold;margin-bottom:25px;}
 h2 {font-size:22px;font-weight:bold;margin-bottom:25px;}
 h3 {font-size:18px;font-weight:bold;margin-bottom:25px;}
 h4,h5,h6 {font-weight:bold;margin-bottom:15px;}
