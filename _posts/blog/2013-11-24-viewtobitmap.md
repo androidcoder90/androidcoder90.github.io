@@ -3,7 +3,7 @@ layout: post
 keywords: android, view to bitmap 
 description: android将view转换成bitmap,需要注意的问题
 title: "android将view转换成bitmap,需要注意的问题"
-categories: [android]
+category: blog
 tags: [android,achartengine,view to bitmap]
 icon: file-alt
 ---
