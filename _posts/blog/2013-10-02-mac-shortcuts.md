@@ -136,7 +136,7 @@ This is my note about shortcuts in Mac OS X.Any suggestion would be appreciated.
 	Opt-Cmd-I 	Developer Tools
 	Opt-Cmd-U 	View Source
 	Opt-Cmd-J 	JS Console
-	Opt-Cmd-J 	JS Console
+	Opt-Cmd-C 	Select an element to inspect it
 	Opt-Cmd-B 	Bookbar Manager
 	Shift-Cmd-B Show Bookbar 
 
