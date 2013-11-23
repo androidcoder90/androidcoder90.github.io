@@ -153,11 +153,13 @@ This is my note about shortcuts in Mac OS X.Any suggestion would be appreciated.
 
 # Finder
 ## Action
+	Cmd-drag	copy file
+	Opt-drage	cut file
+	Opt-Cmd-While-dragging Make alias of dragged item
 	Shift-Cmd-N		New Folder(finder) 
 	Cmd-D		Create Copy
 	Opt-While-dragging Create Copy
 	Cmd-L		Make alias of the selected item //
-	Opt-Cmd-While-dragging Make alias of dragged item
 	Cmd-Del		Move to Trash
 	Shift-Cmd-Del		Empty Trash
 	Shift-Opt-Cmd-Del		Empty Trash without confirmation dialog
