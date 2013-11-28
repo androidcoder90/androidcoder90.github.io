@@ -13,6 +13,7 @@ diffmerge 是一款非常棒的diff工具，利用diffmerge 可以很好的做�
 
 # Config
 >> 相关配置文件我放到这里：https://github.com/hilojack/config/tree/master/svn
+
 ## 编写diffmerge.sh
 	cp diffmerge.sh ~/.subversion/
 	chmod a+x ~/.subversion/diffmerge.sh
@@ -25,4 +26,8 @@ diffmerge 是一款非常棒的diff工具，利用diffmerge 可以很好的做�
 
 
 ## 执行svn merge 吧
-	svn merge https://*****
+	svn merge https://host/path*****
+	--- Merging r97392 through r98012 into 'a.php':
+	UG   a.php
+	--- Merging r97392 through r98012 into 'b.php'
+	 G   b.php
