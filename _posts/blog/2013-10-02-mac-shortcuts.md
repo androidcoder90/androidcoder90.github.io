@@ -155,6 +155,7 @@ This is my note about shortcuts in Mac OS X.Any suggestion would be appreciated.
 ## Action
 	Cmd-drag	copy file
 	Opt-drage	cut file
+	Cmd-T		Add to Sidebar(New Tab)
 	Opt-Cmd-While-dragging Make alias of dragged item
 	Shift-Cmd-N		New Folder(finder) 
 	Cmd-D		Create Copy
@@ -173,7 +174,7 @@ This is my note about shortcuts in Mac OS X.Any suggestion would be appreciated.
 	Cmd-Down		Open parent folder
 	Control-Cmd-Up		Opend parent folder in new Window
 	Opt-Cmd-N		New Smart Folder
-	Cmd-K		Connect To Server
+	Cmd-K		Connect To Server(ftp)
 	Opt-Cmd-F		Search File By FileName and Contents within Current Window
 	Shift+Cmd+T		Add to favorites
 	Shift+Cmd+H/A/U/D		Home/Applications/Uitilities/Desktop
@@ -193,7 +194,6 @@ This is my note about shortcuts in Mac OS X.Any suggestion would be appreciated.
 	Cmd-I		Show Info(focused)
 	Opt-Cmd-I		Show Info(unfocued)
 	Cmd-J		Show View Options
-	Cmd-T		Add to Sidebar(New Tab)
 	Opt-Cmd-T		Hide/Show toolbar in window
 
 
