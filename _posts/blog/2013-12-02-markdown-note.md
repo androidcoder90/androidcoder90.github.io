@@ -12,3 +12,6 @@ description:
 代码区，4个空白符，或者一个tab标签
 
 	这里是代码区
+
+# 图片
+![not](http://sina.cn/***.img)
