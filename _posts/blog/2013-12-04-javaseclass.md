@@ -1,3 +1,9 @@
+---
+layout:  post
+title:	java 设计模式
+category: blog 
+---
+
 #java 设计模式
 ##单例模式
 ###懒汉模式
