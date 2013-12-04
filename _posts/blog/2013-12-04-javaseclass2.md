@@ -1,4 +1,4 @@
-http://androidcoder90.github.io/javaseclass/---
+---
 layout:  post
 title:	java 设计模式
 category: blog 
