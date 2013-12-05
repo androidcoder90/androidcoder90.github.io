@@ -1,7 +1,8 @@
 ---
-layout:post
-title:editplus shortcut key
-category:blog
+layout:     post
+title:      editplus shortcut key
+category:   opinion
+description: 
 ---
 #editplus shortcut key
 
