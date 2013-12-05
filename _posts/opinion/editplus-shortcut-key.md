@@ -143,8 +143,6 @@ description:
       列标记                Alt+Shift+M           显示或隐藏列标记 
       自动换行              Ctrl+Shift+W          切换当前文档的自动换行功能 
     
-    HTML 
-    
     
 ###浏览器 
     
@@ -153,9 +151,6 @@ description:
 ###剪辑文本 
     
       复制                  Ctrl+Shift+Insert     复制选定的剪辑文本项目 
-    
-###目录 
-    
     
 ###工程 
     
