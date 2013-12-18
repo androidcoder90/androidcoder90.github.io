@@ -21,11 +21,11 @@ $(document).ready(function(){
         }
     };
 
-    $('pre').addClass('prettyprint linenums'); //添加Google code Hight需要的class
+    $('pre').addClass('prettyprint linenums'); //添加Google code Hight需要的class0
 
     //***********************
     //**评论的代码也删掉哦***
-    window.disqus_shortname = 'hilojack'; // required: replace example with your forum shortname
+    window.disqus_shortname = 'androidcoder90'; // required: replace example with your forum shortname
     $('#disqus_container .comment').on('click',function(){
         $(this).html('加载中...');
         var that = this;
@@ -38,7 +38,7 @@ $(document).ready(function(){
         var href = $(this).attr('href');
         if(href){
             if(href.indexOf('#') == 0){
-            }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('hilojack.github.io')>-1 ){
+            }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('androidcoder90.github.io')>-1 ){
             }else if ($(element).has('img').length){
             }else{
                 $(this).attr('target','_blank');
