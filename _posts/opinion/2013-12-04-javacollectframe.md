@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:   黑马程序员_java基础_集合框架
-category: Opinion
+category: opinion
 description:转自：黑马论坛分享
 ---
 #四、集合框架
