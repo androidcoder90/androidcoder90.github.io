@@ -6,6 +6,6 @@ paginate: 8
 permalink: /:title
 
 title: github
-url: http://hilojack.github.io
+url: http://androidcoder90.github.io
 feed: /atom.xml
-author_info: <a href="http://hilojack.sinaapp.com/">hilojack</a>
+author_info: <a href="http://www.baidu.com/">androidcoder90</a>
