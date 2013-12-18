@@ -1,10 +1,9 @@
 ---
-layout:     post
-title:   黑马程序员_java基础_多线程
-category: blog
-description:转自：黑马论坛分享
+layout: post
+title: 黑马程序员_java基础_多线程
+category: opinion
+description: 转自：黑马论坛分享
 ---
-    
 #多线程：
 ###1、进程和线程：
     	进程：正在进行的程序。每一个进程执行都有一个执行顺序，该顺序是一个执行路径，或者叫一个控制单元。
