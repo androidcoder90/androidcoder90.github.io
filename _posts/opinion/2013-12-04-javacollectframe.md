@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:   黑马程序员_java基础_集合框架
+layout: post
+title: 黑马程序员_java基础_集合框架
 category: opinion
-description:转自：黑马论坛分享
+description: 转自：黑马论坛分享
 ---
+
 #四、集合框架
 ###1：String类：字符串(重点)
     	(1)多个字符组成的一个序列，叫字符串。
