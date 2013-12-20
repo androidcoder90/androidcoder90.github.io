@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 黑马程序员_java高新技术
-categroy:blog
+categroy: opinion
 description: ASP.Net+Android+IOS开发、.Net培训、期待与您交流！
 ---
 #java基础加强
